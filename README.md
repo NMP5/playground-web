@@ -60,7 +60,7 @@ Mysql 5.7 버전이 23년 10월 지원 종료<br>지원 종료로 인해 Mysql 8
 
 <h2> Git Repository </h2>  
 
-[PlAYGROUND React](https://github.com/jaynamm/playground-react)
+[PLAYGROUND React](https://github.com/jaynamm/playground-react)
 
 <br>
 
